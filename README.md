@@ -4,17 +4,17 @@
 
 ### image
 
-![login](../fruits-warehouse-managment-system-client/Screenshot/Login.png)
+![login](../New%20folder/Screenshot/Login.png)
 
-![register](../fruits-warehouse-managment-system-client/Screenshot/register.png)
+![register](../New%20folder/Screenshot/register.png)
 
-![home](../fruits-warehouse-managment-system-client/Screenshot/home.png)
+![home](../New%20folder/Screenshot/home.png)
 
-![products](../fruits-warehouse-managment-system-client/Screenshot/products.png)
+![products](../New%20folder/Screenshot/products.png)
 
-![create products](../fruits-warehouse-managment-system-client//Screenshot/create%20product.png)
+![create products](../New%20folder/Screenshot/create%20product.png)
 
-![shop](../fruits-warehouse-managment-system-client/Screenshot/shop.png)
+![shop](../New%20folder/Screenshot/shop.png)
 
 # Getting Started with Create React App
 
