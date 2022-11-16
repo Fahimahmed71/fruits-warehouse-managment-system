@@ -4,17 +4,17 @@
 
 ### image
 
-![login](../New%20folder/Screenshot/Login.png)
+![login](/Screenshot/Login.png)
 
-![register](../New%20folder/Screenshot/register.png)
+![register](/Screenshot/register.png)
 
-![home](../New%20folder/Screenshot/home.png)
+![home](/Screenshot/home.png)
 
-![products](../New%20folder/Screenshot/products.png)
+![products](/Screenshot/products.png)
 
-![create products](../New%20folder/Screenshot/create%20product.png)
+![create products](/Screenshot/create%20product.png)
 
-![shop](../New%20folder/Screenshot/shop.png)
+![shop](/Screenshot/shop.png)
 
 # Getting Started with Create React App
 
